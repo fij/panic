@@ -1,0 +1,99 @@
+LICENSE FOR COMMERCIAL USERS. For your convenience this license will
+be attached to the e-mail you receive. 
+
+---------------------------------------
+CONTENTS:
+Copyright notice
+Conditions
+Text of the agreement
+Addresses of the holders of the license
+
+---------------------------------------
+
+COPYRIGHT NOTICE. 
+
+Copyright(c) 2003-ongoing 
+Simulation package for pedestrian escape panic.
+Illes Farkas, Dirk Helbing, Tamas Vicsek. 
+All rights reserved.
+
+
+CONDITIONS. 
+
+Scope of this license. Redistribution of this software and use in
+source and binary forms, with or without modification including the
+rewriting, translation and/or re-implementation in any other way of
+this software are permitted provided that the following conditions are
+met: 
+
+1. Redistribution of source code. Redistributions of source code must
+   retain the complete, unchanged non-profit license, and the
+   complete, unchanged commercial license. 
+
+2. Redistributions in binary form. Redistributions in binary form must
+   contain the complete, unchanged non-profit license, the complete,
+   unchanged commercial license, and the documentation and/or other
+   materials provided with the distribution. 
+
+3. Indication of source. Any entity within the scope of this license
+   (see above) must indicate the source: the scientific publications
+   on this webpage and this webpage itself. 
+
+4. Payment conditions. By accepting the agreement below you agree to
+   pay 7,500 EUR (seven thousand five hundred Euros) to the holders of
+   this license. The addresses of the holders of this license are
+   attached. By contacting the authors more than 30 days after your
+   download, you agree that for each complete 30-day period between
+   your download and your contacting the authors you must pay the
+   additional sum of 1,000 EUR (one thousand Euros).
+
+5. Warranty. THIS SOFTWARE IS PROVIDED BY THE AUTHORS ``AS IS'' AND
+   ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+   THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+   PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE
+   LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+   CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+   OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+   BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+   LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+   (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+   USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGE. 
+
+
+
+TEXT OF THE AGREEMENT. 
+
+I have correctly selected the type of user I am and I agree with the
+license(s) applicable to this choice and the software package(s) I
+have requested. On anyone at whom this (these) software package(s) may
+arrive due to my activities I will enforce the same conditions
+including all licence(s) for both non-profit and commercial users.
+
+
+
+ADDRESSES OF THE HOLDERS OF THE LICENSE
+
+Illes Farkas
+Eotvos Lorand University
+Pazmany Peter setany 1A
+Department of Biological Physics
+H1117 Budapest
+Hungary
+
+Dirk Helbing
+Institute for Economics and Traffic
+Traffic Science Faculty "Friedrich List"
+Dresden University of Technology
+Andreas-Schubert-Str. 23
+A-Building, Room No. 420
+D-01062 Dresden
+Germany
+
+Tamas Vicsek
+Eotvos Lorand University (ELTE)
+Department of Biological Physics
+H-1117 Budapest, 
+Pazmany P. Stny 1A, 
+Hungary
+
